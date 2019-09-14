@@ -4,8 +4,14 @@ font-size: xx-large;
 }
 
 .container {
- 
   margin: auto;
   max-width: 500px;
-  
+}
+
+.price {
+ margin: 1rem;
+}
+
+.description {
+  margin: 1rem;
 }
