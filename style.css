@@ -15,3 +15,7 @@ font-size: xx-large;
 .description {
   margin: 1rem;
 }
+
+.clo {
+ border: 1px solid #ccc; 
+}
